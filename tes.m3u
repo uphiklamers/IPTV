@@ -1,8 +1,5 @@
 #EXTM3U
 ########################################## LOKAL ######################################################
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL",www.toples.ml
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU3MjY5MDE3OH19fV19&Signature=XzX5JueaeS-6iMWrzbWBF9arvp7EU2k367~MFaFtrkTx5-pfWvZyYnsoXCbS3Cme~NP4A1DTdchuE~c9G3cuLLW0roHC8-~J6Jxq61Bny80sPZ~OB-lYwcnMAyqvXpa~vKto4WGYh2vBSs355kELDRLGb3NT-OVcPGXrmEaZeESwFI6PrylmPFDGPFn3lScqp06j4DAGXnfNz8j7ux-k8taSafKVTe-chZ2P~D1sLp8MioUfCYpZnhSfb9W8Wvu8vMRINy2e2Rc5xDvGgbUM2ZDV8VosuJCekKT3PFfBic5sB~HjJbeDo0az7aXS7ZZ~2upHjwgG2AW8T1pUTTfbMw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#http://218.202.220.2:5000/nn_live.ts?id=HBO
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
